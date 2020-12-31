@@ -6517,11 +6517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wh0ads/Documents/Github/Challenge/Ativy/crudApi/crudApi/crudApi.csproj",
+      "projectUniqueName": "/Users/wh0ads/Documents/Github/Challenge/Ativy/todo-ativy/crudApi/crudApi/crudApi.csproj",
       "projectName": "crudApi",
-      "projectPath": "/Users/wh0ads/Documents/Github/Challenge/Ativy/crudApi/crudApi/crudApi.csproj",
+      "projectPath": "/Users/wh0ads/Documents/Github/Challenge/Ativy/todo-ativy/crudApi/crudApi/crudApi.csproj",
       "packagesPath": "/Users/wh0ads/.nuget/packages/",
-      "outputPath": "/Users/wh0ads/Documents/Github/Challenge/Ativy/crudApi/crudApi/obj/",
+      "outputPath": "/Users/wh0ads/Documents/Github/Challenge/Ativy/todo-ativy/crudApi/crudApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

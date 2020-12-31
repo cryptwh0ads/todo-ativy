@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T75NdGw860L90h8x5fntR4u3Jxv1/XiGRmdwWsUepVvz3Ye+A5uF4gj9tmf9GJlBHEDcXkFlK8e4OpPSBNR52A==",
+  "dgSpecHash": "So96ZCCquUSFqETz+4Sbf+4EtNg9PHLMj2fQAJFDkq79bdHS69jioQ4zFIx4WhM2F6M5cJ0Dznl+g7AvuZl9Jg==",
   "success": true,
-  "projectFilePath": "/Users/wh0ads/Documents/Github/Challenge/Ativy/crudApi/crudApi/crudApi.csproj",
+  "projectFilePath": "/Users/wh0ads/Documents/Github/Challenge/Ativy/todo-ativy/crudApi/crudApi/crudApi.csproj",
   "expectedPackageFiles": [
     "/Users/wh0ads/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/wh0ads/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
